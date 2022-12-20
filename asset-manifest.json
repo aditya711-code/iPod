@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/iPod/static/css/main.3975743a.css",
+    "main.js": "/iPod/static/js/main.f92b47ad.js",
+    "static/media/maanmerijaan.mp3": "/iPod/static/media/maanmerijaan.64cb587e74afd726aa1f.mp3",
+    "index.html": "/iPod/index.html",
+    "main.3975743a.css.map": "/iPod/static/css/main.3975743a.css.map",
+    "main.f92b47ad.js.map": "/iPod/static/js/main.f92b47ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3975743a.css",
+    "static/js/main.f92b47ad.js"
+  ]
+}
